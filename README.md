@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**geeboss/geeboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my special readme file
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Just began github
+catching up with github and uses
+I want to know about programming
+I would need assistance from people that has gone ahead
+Try to direct me and ask about what you think I need
+https://www.linkedin.com/feed/
+I am a he
+Do you know you can learn anything with the right resources
 -->
